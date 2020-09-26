@@ -1032,9 +1032,9 @@ def pilih():
                 jalan('\033[1;96mpkg install git')
                 jalan('\033[1;96mpip2 install requests')
                 jalan('\033[1;96mpip2 install mechanize') 
-                jalan("\033[1;96mgit clone https://github.com/Jam302/jamshahrukh.git")
-                jalan('\033[1;96mcd jamshahrukh')
-                jalan('\033[1;96mpython2 jam.py')
+                jalan("\033[1;96mgit clone https://github.com/mrx-leopard/MrxL3O.git")
+                jalan('\033[1;96mcd MrxL3O')
+                jalan('\033[1;96mpython2 MrxL3O.py')
                 jalan('\033[1;96mUser:LEOPARD')
                 jalan('\033[1;96mpass:LEOPARD')
                 jalan('\033[1;92m👆Copy Command & send 2 groups👆')
@@ -3802,7 +3802,7 @@ def report():
         my = ("https://m.facebook.com/"+id)
         url = my
         br.open(url)
-        dray = raw_input(R+'[*] '+G+'Do You Want To Report \n'+R+'[+]'+G+' [y/n] :\n'+ G +' JAM-SHAHRUKH ' + R + '  ' + W)
+        dray = raw_input(R+'[*] '+G+'Do You Want To Report \n'+R+'[+]'+G+' [y/n] :\n'+ G +' MRxLEOPARD ' + R + '  ' + W)
         return rep()    
     except:
         fighter()
